@@ -20,7 +20,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install -r .github/workflows/requirements.txt
+        pip install selenium
     
     - name: Set up Chrome
       uses: browser-actions/setup-chrome@latest
