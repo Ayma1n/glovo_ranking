@@ -7,6 +7,11 @@ import json, random
 from selenium.webdriver.chrome.options import Options
 
 options = Options()
+options.add_argument("--headless")  # CRITICAL for GitHub Actions
+options.add_argument("--no-sandbox")  # CRITICAL for GitHub Actions
+options.add_argument("--disable-dev-shm-usage")  # CRITICAL for GitHub Actions
+options.add_argument("--disable-gpu")
+options.add_argument("--window-size=1920,1080")
 options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_argument("--disable-application-cache")
 options.add_argument("--disk-cache-size=0")
@@ -117,4 +122,5 @@ with open("urls4.json", "w", encoding='utf-8') as f:
 print(f"💾 Saved {len(all_urls)} URLs to urls.json")
 
 driver.quit()
+
 print("🎯 Scraping completed successfully!")
