@@ -28,7 +28,7 @@ jobs:
         sudo apt-get install -y chromium-browser chromium-chromedriver
     
     - name: Run scraper
-      run: python your_script_name.py
+      run: python main_glovo.py
     
     - name: Commit and push results
       run: |
