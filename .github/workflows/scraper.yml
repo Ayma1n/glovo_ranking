@@ -20,7 +20,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install -r selenium
+        pip install selenium
     
     - name: Install Chrome and ChromeDriver
       run: |
