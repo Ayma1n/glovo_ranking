@@ -5,18 +5,21 @@ from selenium import webdriver
 from time import sleep
 import json, random
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
 options = Options()
-options.add_argument("--headless")  # CRITICAL for GitHub Actions
-options.add_argument("--no-sandbox")  # CRITICAL for GitHub Actions
-options.add_argument("--disable-dev-shm-usage")  # CRITICAL for GitHub Actions
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
 options.add_argument("--window-size=1920,1080")
 options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_argument("--disable-application-cache")
 options.add_argument("--disk-cache-size=0")
 
-driver = webdriver.Chrome(options=options)
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=options)
 driver.get("https://glovoapp.com/en/ma/kenitra/categories/food_1")
 sleep(4)
 
@@ -124,3 +127,4 @@ print(f"💾 Saved {len(all_urls)} URLs to urls.json")
 driver.quit()
 
 print("🎯 Scraping completed successfully!")
+
