@@ -2,7 +2,7 @@ name: Glovo Scraper
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */5 * * *'  # Every 5 hours
   workflow_dispatch:
 
 jobs:
@@ -34,10 +34,15 @@ jobs:
     - name: Run scraper
       run: python main_glovo.py
     
+    - name: Rename file with timestamp
+      run: |
+        TIMESTAMP=$(date -u +'%m.%d.%H')
+        mv restaurants4_data.json rsd.$TIMESTAMP.json
+    
     - name: Commit and push results
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add restaurants4_data.json
+        git add rsd.*.json
         git diff --quiet && git diff --staged --quiet || git commit -m "Update scraping results $(date)"
         git push
