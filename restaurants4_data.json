@@ -209,39 +209,39 @@
     "delivery_fee": "(31)",
     "score": "88%"
   },
-  "Au Bureau": {
-    "rank": 44,
-    "delivery_fee": "(47)",
-    "score": "90%"
-  },
   "DÉLICE CHICKEN": {
-    "rank": 45,
+    "rank": 44,
     "delivery_fee": "(78)",
     "score": "80%"
   },
   "House 17": {
-    "rank": 46,
+    "rank": 45,
     "delivery_fee": "(19)",
     "score": "83%"
   },
   "Gold Pizzeria": {
-    "rank": 47,
+    "rank": 46,
     "delivery_fee": "(26)",
     "score": "88%"
   },
-  "Le Maître Bocadillos": {
-    "rank": 48,
-    "delivery_fee": "(285)",
-    "score": "87%"
-  },
   "Taco Délice": {
-    "rank": 49,
+    "rank": 47,
     "delivery_fee": "(23)",
     "score": "88%"
   },
   "Chose Your FooD": {
-    "rank": 50,
+    "rank": 48,
     "delivery_fee": "(36)",
     "score": "75%"
+  },
+  "Fior Di Pizza": {
+    "rank": 49,
+    "delivery_fee": "(75)",
+    "score": "85%"
+  },
+  "Yamy HN": {
+    "rank": 50,
+    "delivery_fee": "(269)",
+    "score": "95%"
   }
 }
