@@ -1,0 +1,242 @@
+{
+  "Sabreiccino": {
+    "rank": 1,
+    "delivery_fee": "(29)",
+    "score": "91%"
+  },
+  "YAFA Breakfast": {
+    "rank": 2,
+    "delivery_fee": "(23)",
+    "score": "46%"
+  },
+  "XTRA LOFT": {
+    "rank": 3,
+    "delivery_fee": "(18)",
+    "score": "85%"
+  },
+  "Moon Plaza": {
+    "rank": 4,
+    "delivery_fee": "(69)",
+    "score": "88%"
+  },
+  "Moon Ice": {
+    "rank": 5,
+    "delivery_fee": "(137)",
+    "score": "81%"
+  },
+  "Ray's Miami": {
+    "rank": 6,
+    "delivery_fee": "(10)",
+    "score": "87%"
+  },
+  "Villa Port Lyautey": {
+    "rank": 7,
+    "delivery_fee": "N/A",
+    "score": "--"
+  },
+  "House 17 Breakfast": {
+    "rank": 8,
+    "delivery_fee": "(32)",
+    "score": "82%"
+  },
+  "Tendy's®": {
+    "rank": 9,
+    "delivery_fee": "(41)",
+    "score": "65%"
+  },
+  "Ray's Miami Breakfast": {
+    "rank": 10,
+    "delivery_fee": "(12)",
+    "score": "96%"
+  },
+  "McDonald's®": {
+    "rank": 11,
+    "delivery_fee": "(500+)",
+    "score": "92%"
+  },
+  "Le Macaron Maitre Artisan": {
+    "rank": 12,
+    "delivery_fee": "(35)",
+    "score": "100%"
+  },
+  "مطعم بدر الشام": {
+    "rank": 13,
+    "delivery_fee": "(178)",
+    "score": "94%"
+  },
+  "Pizza Hut": {
+    "rank": 21,
+    "delivery_fee": "(245)",
+    "score": "89%"
+  },
+  "Step Burger": {
+    "rank": 15,
+    "delivery_fee": "(500+)",
+    "score": "94%"
+  },
+  "Tacos by Step Burger": {
+    "rank": 16,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "Taco Délice": {
+    "rank": 17,
+    "delivery_fee": "(22)",
+    "score": "89%"
+  },
+  "La Contessa Prestige": {
+    "rank": 18,
+    "delivery_fee": "(116)",
+    "score": "91%"
+  },
+  "Quick": {
+    "rank": 19,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "O Chef Tacos": {
+    "rank": 20,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "Tacos Square": {
+    "rank": 22,
+    "delivery_fee": "(500+)",
+    "score": "92%"
+  },
+  "ليالي شامية - Layali Chamia": {
+    "rank": 23,
+    "delivery_fee": "(492)",
+    "score": "90%"
+  },
+  "Art Lounge": {
+    "rank": 24,
+    "delivery_fee": "(55)",
+    "score": "97%"
+  },
+  "مطعم بلاد الشام": {
+    "rank": 25,
+    "delivery_fee": "(500+)",
+    "score": "91%"
+  },
+  "Le Plat Gourmand": {
+    "rank": 26,
+    "delivery_fee": "(165)",
+    "score": "89%"
+  },
+  "L'Atelier Burger": {
+    "rank": 27,
+    "delivery_fee": "(406)",
+    "score": "90%"
+  },
+  "Coin Family": {
+    "rank": 28,
+    "delivery_fee": "(71)",
+    "score": "92%"
+  },
+  "CHOOSE": {
+    "rank": 29,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "Little Mamma": {
+    "rank": 30,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "Pizzeria Moon": {
+    "rank": 31,
+    "delivery_fee": "(32)",
+    "score": "90%"
+  },
+  "DÉLICE CHICKEN": {
+    "rank": 32,
+    "delivery_fee": "(77)",
+    "score": "80%"
+  },
+  "House 17": {
+    "rank": 33,
+    "delivery_fee": "(18)",
+    "score": "83%"
+  },
+  "Gold Pizzeria": {
+    "rank": 34,
+    "delivery_fee": "(26)",
+    "score": "88%"
+  },
+  "Le Maître Bocadillos": {
+    "rank": 35,
+    "delivery_fee": "(284)",
+    "score": "88%"
+  },
+  "Yamy HN": {
+    "rank": 36,
+    "delivery_fee": "(266)",
+    "score": "95%"
+  },
+  "La BURRATINA": {
+    "rank": 37,
+    "delivery_fee": "(83)",
+    "score": "87%"
+  },
+  "Délicimo Bocadillos": {
+    "rank": 38,
+    "delivery_fee": "(225)",
+    "score": "86%"
+  },
+  "Yoka Sushi": {
+    "rank": 39,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "Barbecue House": {
+    "rank": 40,
+    "delivery_fee": "(38)",
+    "score": "88%"
+  },
+  "Le Maitre Chicken": {
+    "rank": 41,
+    "delivery_fee": "(137)",
+    "score": "91%"
+  },
+  "Chhiwate Ryad Naji": {
+    "rank": 42,
+    "delivery_fee": "(210)",
+    "score": "93%"
+  },
+  "BlueBerry": {
+    "rank": 44,
+    "delivery_fee": "(147)",
+    "score": "94%"
+  },
+  "La Matina ice cream": {
+    "rank": 45,
+    "delivery_fee": "N/A",
+    "score": "--"
+  },
+  "Nuija Dar Tajine": {
+    "rank": 46,
+    "delivery_fee": "(410)",
+    "score": "96%"
+  },
+  "Snack Lwalida 2": {
+    "rank": 47,
+    "delivery_fee": "(88)",
+    "score": "93%"
+  },
+  "Mini House": {
+    "rank": 48,
+    "delivery_fee": "(418)",
+    "score": "93%"
+  },
+  "Cafe Encore": {
+    "rank": 49,
+    "delivery_fee": "(66)",
+    "score": "92%"
+  },
+  "Three Cups": {
+    "rank": 50,
+    "delivery_fee": "(85)",
+    "score": "95%"
+  }
+}
