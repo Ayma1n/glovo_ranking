@@ -1,0 +1,252 @@
+{
+  "Pizza Hut": {
+    "rank": 1,
+    "delivery_fee": "2,00 MAD",
+    "score": "88%"
+  },
+  "بدر الشام النافورة": {
+    "rank": 2,
+    "delivery_fee": "2,00 MAD",
+    "score": "96%"
+  },
+  "Le Macaron Maitre Artisan": {
+    "rank": 3,
+    "delivery_fee": "11,00 MAD",
+    "score": "100%"
+  },
+  "Step Burger": {
+    "rank": 4,
+    "delivery_fee": "1,00 MAD",
+    "score": "94%"
+  },
+  "Hollywood Café": {
+    "rank": 5,
+    "delivery_fee": "1,00 MAD",
+    "score": "97%"
+  },
+  "All Stars Sports Café Restaurant": {
+    "rank": 6,
+    "delivery_fee": "1,00 MAD",
+    "score": "93%"
+  },
+  "The Green Place Breakfast": {
+    "rank": 7,
+    "delivery_fee": "1,00 MAD",
+    "score": "81%"
+  },
+  "Tacos by Step Burger": {
+    "rank": 8,
+    "delivery_fee": "1,00 MAD",
+    "score": "96%"
+  },
+  "Labrune": {
+    "rank": 9,
+    "delivery_fee": "1,00 MAD",
+    "score": "96%"
+  },
+  "The Green Place": {
+    "rank": 10,
+    "delivery_fee": "1,00 MAD",
+    "score": "70%"
+  },
+  "Ray's Miami": {
+    "rank": 11,
+    "delivery_fee": "2,00 MAD",
+    "score": "87%"
+  },
+  "Radwa Délice": {
+    "rank": 12,
+    "delivery_fee": "2,00 MAD",
+    "score": "87%"
+  },
+  "Tacos Nafoura": {
+    "rank": 13,
+    "delivery_fee": "2,00 MAD",
+    "score": "95%"
+  },
+  "All Stars Sports Restaurant Café Breakfast": {
+    "rank": 14,
+    "delivery_fee": "1,00 MAD",
+    "score": "88%"
+  },
+  "Villa Port Lyautey": {
+    "rank": 15,
+    "delivery_fee": "1,00 MAD",
+    "score": "--"
+  },
+  "KFC": {
+    "rank": 16,
+    "delivery_fee": "2,00 MAD",
+    "score": "91%"
+  },
+  "Taco Délice": {
+    "rank": 17,
+    "delivery_fee": "2,00 MAD",
+    "score": "91%"
+  },
+  "House 17 Breakfast": {
+    "rank": 18,
+    "delivery_fee": "1,00 MAD",
+    "score": "84%"
+  },
+  "Moon Plaza": {
+    "rank": 19,
+    "delivery_fee": "2,00 MAD",
+    "score": "89%"
+  },
+  "Tendy's®": {
+    "rank": 20,
+    "delivery_fee": "1,00 MAD",
+    "score": "69%"
+  },
+  "Ray's Miami Breakfast": {
+    "rank": 21,
+    "delivery_fee": "2,00 MAD",
+    "score": "96%"
+  },
+  "Moon Ice": {
+    "rank": 22,
+    "delivery_fee": "2,00 MAD",
+    "score": "80%"
+  },
+  "Café restaurant Cappuccino": {
+    "rank": 23,
+    "delivery_fee": "2,00 MAD",
+    "score": "89%"
+  },
+  "Quick": {
+    "rank": 24,
+    "delivery_fee": "1,00 MAD",
+    "score": "96%"
+  },
+  "Le Jardin": {
+    "rank": 25,
+    "delivery_fee": "2,00 MAD",
+    "score": "--"
+  },
+  "O Chef Tacos": {
+    "rank": 26,
+    "delivery_fee": "2,00 MAD",
+    "score": "93%"
+  },
+  "Bonjour Lina": {
+    "rank": 27,
+    "delivery_fee": "(23)",
+    "score": "98%"
+  },
+  "Bubble Cup": {
+    "rank": 28,
+    "delivery_fee": "3,00 MAD",
+    "score": "87%"
+  },
+  "Mille délices": {
+    "rank": 29,
+    "delivery_fee": "3,00 MAD",
+    "score": "81%"
+  },
+  "Three Cups Breakfast": {
+    "rank": 30,
+    "delivery_fee": "4,00 MAD",
+    "score": "96%"
+  },
+  "Resto Santé": {
+    "rank": 31,
+    "delivery_fee": "5,00 MAD",
+    "score": "97%"
+  },
+  "Sabreiccino": {
+    "rank": 32,
+    "delivery_fee": "5,00 MAD",
+    "score": "92%"
+  },
+  "McDonald's®": {
+    "rank": 33,
+    "delivery_fee": "7,00 MAD",
+    "score": "92%"
+  },
+  "YAFA": {
+    "rank": 34,
+    "delivery_fee": "7,00 MAD",
+    "score": "53%"
+  },
+  "YAFA Breakfast": {
+    "rank": 35,
+    "delivery_fee": "7,00 MAD",
+    "score": "54%"
+  },
+  "Mevico": {
+    "rank": 36,
+    "delivery_fee": "6,00 MAD",
+    "score": "91%"
+  },
+  "XTRA LOFT": {
+    "rank": 37,
+    "delivery_fee": "8,00 MAD",
+    "score": "89%"
+  },
+  "Tacos Square": {
+    "rank": 38,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "ليالي شامية - Layali Chamia": {
+    "rank": 39,
+    "delivery_fee": "(472)",
+    "score": "91%"
+  },
+  "مطعم بلاد الشام": {
+    "rank": 40,
+    "delivery_fee": "(500+)",
+    "score": "91%"
+  },
+  "Le Plat Gourmand": {
+    "rank": 41,
+    "delivery_fee": "(151)",
+    "score": "86%"
+  },
+  "Fior Di Pizza": {
+    "rank": 42,
+    "delivery_fee": "(80)",
+    "score": "85%"
+  },
+  "L'Atelier Burger": {
+    "rank": 43,
+    "delivery_fee": "(395)",
+    "score": "91%"
+  },
+  "El Bayt Achami": {
+    "rank": 44,
+    "delivery_fee": "(403)",
+    "score": "93%"
+  },
+  "Primos Chicken": {
+    "rank": 45,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "CHOOSE": {
+    "rank": 46,
+    "delivery_fee": "(500+)",
+    "score": "94%"
+  },
+  "Little Mamma": {
+    "rank": 47,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "Mini House": {
+    "rank": 48,
+    "delivery_fee": "(403)",
+    "score": "93%"
+  },
+  "Pizzeria Moon": {
+    "rank": 49,
+    "delivery_fee": "(33)",
+    "score": "82%"
+  },
+  "DÉLICE CHICKEN": {
+    "rank": 50,
+    "delivery_fee": "(73)",
+    "score": "82%"
+  }
+}
