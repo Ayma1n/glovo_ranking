@@ -1,0 +1,247 @@
+{
+  "YAFA Breakfast": {
+    "rank": 1,
+    "delivery_fee": "(22)",
+    "score": "54%"
+  },
+  "XTRA LOFT": {
+    "rank": 2,
+    "delivery_fee": "(18)",
+    "score": "89%"
+  },
+  "The Green Place Breakfast": {
+    "rank": 3,
+    "delivery_fee": "(141)",
+    "score": "81%"
+  },
+  "Moon Plaza": {
+    "rank": 4,
+    "delivery_fee": "(66)",
+    "score": "89%"
+  },
+  "Moon Ice": {
+    "rank": 5,
+    "delivery_fee": "(126)",
+    "score": "80%"
+  },
+  "Ray's Miami": {
+    "rank": 6,
+    "delivery_fee": "(10)",
+    "score": "87%"
+  },
+  "Villa Port Lyautey": {
+    "rank": 7,
+    "delivery_fee": "N/A",
+    "score": "--"
+  },
+  "House 17 Breakfast": {
+    "rank": 8,
+    "delivery_fee": "(31)",
+    "score": "84%"
+  },
+  "Tendy's®": {
+    "rank": 9,
+    "delivery_fee": "(39)",
+    "score": "69%"
+  },
+  "Ray's Miami Breakfast": {
+    "rank": 10,
+    "delivery_fee": "(12)",
+    "score": "96%"
+  },
+  "Radwa Délice": {
+    "rank": 11,
+    "delivery_fee": "(34)",
+    "score": "87%"
+  },
+  "Mille délices": {
+    "rank": 12,
+    "delivery_fee": "(16)",
+    "score": "81%"
+  },
+  "McDonald's®": {
+    "rank": 13,
+    "delivery_fee": "(500+)",
+    "score": "92%"
+  },
+  "Le Macaron Maitre Artisan": {
+    "rank": 14,
+    "delivery_fee": "(34)",
+    "score": "100%"
+  },
+  "Côté Sushi": {
+    "rank": 15,
+    "delivery_fee": "(500+)",
+    "score": "92%"
+  },
+  "بدر الشام النافورة": {
+    "rank": 16,
+    "delivery_fee": "(253)",
+    "score": "96%"
+  },
+  "مطعم بدر الشام": {
+    "rank": 17,
+    "delivery_fee": "(181)",
+    "score": "96%"
+  },
+  "Tacos Nafoura": {
+    "rank": 18,
+    "delivery_fee": "(23)",
+    "score": "95%"
+  },
+  "Pizza Hut": {
+    "rank": 29,
+    "delivery_fee": "(251)",
+    "score": "87%"
+  },
+  "Step Burger": {
+    "rank": 20,
+    "delivery_fee": "(500+)",
+    "score": "94%"
+  },
+  "Tacos by Step Burger": {
+    "rank": 21,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "The Green Place": {
+    "rank": 22,
+    "delivery_fee": "(47)",
+    "score": "70%"
+  },
+  "Art Lounge": {
+    "rank": 23,
+    "delivery_fee": "(53)",
+    "score": "97%"
+  },
+  "KFC": {
+    "rank": 24,
+    "delivery_fee": "(500+)",
+    "score": "91%"
+  },
+  "Taco Délice": {
+    "rank": 25,
+    "delivery_fee": "(21)",
+    "score": "91%"
+  },
+  "La Contessa Prestige": {
+    "rank": 26,
+    "delivery_fee": "(112)",
+    "score": "92%"
+  },
+  "Quick": {
+    "rank": 27,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "O Chef Tacos": {
+    "rank": 28,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "Tacos Square": {
+    "rank": 30,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "ليالي شامية - Layali Chamia": {
+    "rank": 31,
+    "delivery_fee": "(476)",
+    "score": "90%"
+  },
+  "Le Plat Gourmand": {
+    "rank": 32,
+    "delivery_fee": "(154)",
+    "score": "87%"
+  },
+  "Fior Di Pizza": {
+    "rank": 33,
+    "delivery_fee": "(80)",
+    "score": "84%"
+  },
+  "L'Atelier Burger": {
+    "rank": 34,
+    "delivery_fee": "(397)",
+    "score": "91%"
+  },
+  "Primos Chicken": {
+    "rank": 35,
+    "delivery_fee": "(500+)",
+    "score": "93%"
+  },
+  "CHOOSE": {
+    "rank": 36,
+    "delivery_fee": "(500+)",
+    "score": "94%"
+  },
+  "Little Mamma": {
+    "rank": 37,
+    "delivery_fee": "(500+)",
+    "score": "95%"
+  },
+  "Mini House": {
+    "rank": 38,
+    "delivery_fee": "(408)",
+    "score": "93%"
+  },
+  "Pizzeria Moon": {
+    "rank": 39,
+    "delivery_fee": "(33)",
+    "score": "82%"
+  },
+  "DÉLICE CHICKEN": {
+    "rank": 40,
+    "delivery_fee": "(75)",
+    "score": "82%"
+  },
+  "House 17": {
+    "rank": 41,
+    "delivery_fee": "(18)",
+    "score": "86%"
+  },
+  "Gold Pizzeria": {
+    "rank": 42,
+    "delivery_fee": "(24)",
+    "score": "80%"
+  },
+  "Le Maître Bocadillos": {
+    "rank": 43,
+    "delivery_fee": "(274)",
+    "score": "88%"
+  },
+  "Chose Your FooD": {
+    "rank": 44,
+    "delivery_fee": "(35)",
+    "score": "75%"
+  },
+  "Yamy HN": {
+    "rank": 45,
+    "delivery_fee": "(261)",
+    "score": "95%"
+  },
+  "La BURRATINA": {
+    "rank": 46,
+    "delivery_fee": "(81)",
+    "score": "88%"
+  },
+  "Délicimo Bocadillos": {
+    "rank": 47,
+    "delivery_fee": "(227)",
+    "score": "88%"
+  },
+  "Yoka Sushi": {
+    "rank": 48,
+    "delivery_fee": "(500+)",
+    "score": "96%"
+  },
+  "Coin Family": {
+    "rank": 49,
+    "delivery_fee": "(72)",
+    "score": "94%"
+  },
+  "Le Maitre Chicken": {
+    "rank": 50,
+    "delivery_fee": "(140)",
+    "score": "89%"
+  }
+}
